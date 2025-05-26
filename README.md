@@ -1,6 +1,5 @@
 # ESP8266 Evil Twin Attack Tool
 
-![Project Demo](demo.gif) *(Add actual demo GIF later)*
 
 A portable WiFi penetration testing tool using ESP8266 that creates fake access points to capture credentials.
 
